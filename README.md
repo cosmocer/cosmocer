@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cosmocer
-- 👀 I’m interested in space weather and ionospheric pyhsics.
+- 👀 I’m interested in space weather and ionospheric physics.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on some Python codes.
 - 📫 How to reach me: from my GitHub profile.
